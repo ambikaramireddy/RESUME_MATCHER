@@ -74,7 +74,9 @@ Resume_Matcher/
 </pre>
 ## <span style="color:#28B463; font-size:28px;">📁 SYSTEM ARCHITECTURE</span
 
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ambikaramireddy/RESUME_MATCHER/main/NLP%20system%20architecture%20flowchart.png" alt="NLP System Architecture" width="700"/>
+</p>
 ## <span style="color:#28B463; font-size:28px;">🔧 Installation & Setup</span>
 
 
